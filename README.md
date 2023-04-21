@@ -1,7 +1,5 @@
 # EzeLRA
-Frecuentemente practicando o investigando ampliamente. A veces observo y tengo interes, suelo hacerlo y lo cumplo intentandolo.
-
-Habitualmente estudiando pero en ocasiones compartiendo contenido de diversos temas.
-
+ Estudiante con pasatiempos de corto tiempo. 
+ Posee terciario completo de electronica y actualmente en cursada de una tecnicatura en programacion
 ##### Plataforma comun:
 - https://www.youtube.com/channel/UCf1gLwjL6owpPYezmdh1xJw
