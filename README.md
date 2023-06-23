@@ -1,8 +1,5 @@
 # EzeLRA
- Estudiante con pasatiempos de corto tiempo. 
- Posee tecnicatura completa de electronica y actualmente en cursada de una tecnicatura en programacion
-##### Plataforma comun:
-- https://www.youtube.com/channel/UCf1gLwjL6owpPYezmdh1xJw
+ Repositorio personal de todas las actividades y proyectos realizados hasta el momento por parte de practicas universitarias y personales.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Portafolio-gray)](https://ezelra.github.io/portafolio_ELRA/)
