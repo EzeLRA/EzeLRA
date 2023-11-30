@@ -3,7 +3,7 @@
 
 #### Programas ejercitaciones con Assembler
 + [8088](https://github.com/EzeLRA/Practica_Ensamblador-ASM88)
-+ [WinMips64](https://github.com/EzeLRA/Practica-con-Pascal_1)
++ [WinMips64](https://github.com/EzeLRA/Practica-WinMips64)
 
 ## Lista de contenidos
 #### Programas ejercitaciones con Pascal
