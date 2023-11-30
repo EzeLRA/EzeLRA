@@ -1,6 +1,10 @@
 # EzeLRA
  Repositorio personal de todas las actividades y proyectos realizados hasta el momento por parte de practicas universitarias y personales.
 
+#### Programas ejercitaciones con Assembler
++ [8088](https://github.com/EzeLRA/Practica-con-Pascal_1)
++ [WinMips64](https://github.com/EzeLRA/Practica-con-Pascal_1)
+
 ## Lista de contenidos
 #### Programas ejercitaciones con Pascal
 + [Practica 1](https://github.com/EzeLRA/Practica-con-Pascal_1)
