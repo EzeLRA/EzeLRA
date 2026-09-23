@@ -22,7 +22,14 @@ Desarrollador con enfoque en el diseño de arquitecturas de software, optimizaci
 ---
 
 ## 🚀 Proyectos Destacados
-
+### [Plataforma R-Info](https://github.com/EzeLRA/RobotCiudadWeb)
+*Entorno de programacion academico multiplataforma*
+* **Enfoque Técnico:** Desarrollo de una plataforma Web para fomentar la ventaja de multiplataforma del entorno  
+* **Stack:** `FullStack` `Rust` `Dioxus` 
+### [Compilador R-Info](https://github.com/EzeLRA/R-Info-Rust)
+*Desarrollo del "Compilador" del entorno de R-info,nativamente en Rust*
+* **Enfoque Tecnico:** Performance y Estructurizado solido de los componentes
+* **Stack:** `Rust`
 ### [Invernadero Automatizado](https://github.com/EzeLRA/automated_GreenHouse)
 *Sistema de control ambiental y monitoreo automatizado.*
 * **Enfoque Técnico:** Integración de sensores/actuadores, control de variables ambientales y lógica de automatización en hardware.
