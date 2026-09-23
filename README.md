@@ -1,39 +1,60 @@
 # EzeLRA
-### Sobre mí
 
-Estudiante avanzado de Analista Programador Universitario en la Facultad de Informática de la Universidad Nacional de La Plata (UNLP). Orientado al desarrollo de software de alto rendimiento, optimización algorítmica y diseño de arquitecturas robustas.
+Desarrollador de Software & Técnico Electrónico  
+*Estudiante Avanzado de Analista Programador Universitario — Universidad Nacional de La Plata (UNLP)*
 
-### Áreas de Especialización y Competencias
-* **Desarrollo de Software & Arquitectura:** Dominio de lenguajes fuertemente tipados (Rust, Java, C), patrones de diseño, modelado UML y algoritmos avanzados.
-* **Desarrollo Web & Bases de Datos:** Experiencia en desarrollo Full-Stack utilizando frameworks frontend (Bootstrap), tecnologías web y modelado/administración de bases de datos relacionales (MySQL).
-* **Smart Contracts & Web3:** Desarrollo e implementación de lógica de negocio en Solidity y arquitectura de dApps.
-* **Sistemas y Hardware:** Formación como Técnico Electrónico con experiencia en análisis de esquemáticos, diagnóstico a nivel de componente y reparación/reacondicionamiento de equipos electrónicos y software de sistema.
- 
-#### Programas ejercitaciones con Assembler
-+ [8088](https://github.com/EzeLRA/Practica_Ensamblador-ASM88)
-+ [WinMips64](https://github.com/EzeLRA/Practica-WinMips64)
+---
 
-## Lista de contenidos
-#### Programas ejercitaciones con Pascal
-+ [Practica 1](https://github.com/EzeLRA/Practica-con-Pascal_1)
-+ [Practica 2](https://github.com/EzeLRA/Practica-con-Pascal_2)
-+ [Practica 3](https://github.com/EzeLRA/Practica_con_Pascal_3)
-+ [Practica 4](https://github.com/EzeLRA/Practica_con_Pascal4)
-+ [Practica 5 - Ejercitacion Pascal](https://github.com/EzeLRA/ejercitacion_Pascal)
+## 📌 Perfil Técnico
 
-#### Programas de practicas
-+ [Practica JavaScript](https://github.com/EzeLRA/actividad_JavaScript)
-+ [Practica Frontend](https://github.com/EzeLRA/practica_Frontend)
-+ [Practica Java - Pronostico Deportivo](https://github.com/EzeLRA/pronostico_Deportivo)
+Desarrollador con enfoque en el diseño de arquitecturas de software, optimización algorítmica y sistemas de alto rendimiento con lenguajes fuertemente tipados. Combino la formación en ciencias de la computación con un perfil técnico en electrónica e ingeniería de hardware, facilitando el desarrollo tanto en capas de abstracción elevadas como en entornos de bajo nivel y sistemas embebidos.
 
-### Proyectos realizados
-+ [Invernadero automatizado](https://github.com/EzeLRA/automated_GreenHouse)
-+ [Dispensador de Mascotas](https://github.com/EzeLRA/Food_dispenser)
-+ [Juego del Dinosaurio con ESP8266](https://github.com/EzeLRA/dinosaurGame_ESP8266)
-+ [Juego prototipo con C++ (Desactualizado)](https://github.com/EzeLRA/PrototypesGamesDev-Desactualizado-)
-+ [Juego de PacMan con C++ (Desactualizado)](https://github.com/EzeLRA/PacManPrototype-Desactualizado-)
+---
 
-## 🔗 Links de referencia
-[![portfolio](https://img.shields.io/badge/Portafolio-gray)](https://ezelra.github.io/portafolio_ELRA/)
-[![linkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ezequiel-ramos-8705a7248/)
-[![youtube](https://img.shields.io/badge/Youtube-red)](https://www.youtube.com/channel/UCf1gLwjL6owpPYezmdh1xJw)
+## 💻 Especializaciones & Stack
+
+* **Desarrollo de Sistemas & Backend:** Rust (Tokio, Poise), Java (POO, Maven, JUnit), C.
+* **Smart Contracts & Web3:** Solidity/Rust , arquitectura de dApps en Ethereum / Layer 2.
+* **Sistemas Embebidos & Hardware:** Diagnóstico a nivel de componente, microcontroladores (ESP8266, Arduino), lectura de esquemáticos y protocolos de comunicación serie.
+* **Desarrollo Web & Bases de Datos:** JavaScript, HTML/CSS, Bootstrap, MySQL (Modelado relacional y optimización de consultas).
+* **Ingeniería de Software:** Modelado UML, patrones de diseño, análisis de complejidad ($O(n)$) y control de versiones con Git/GitHub.
+
+---
+
+## 🚀 Proyectos Destacados
+
+### [Invernadero Automatizado](https://github.com/EzeLRA/automated_GreenHouse)
+*Sistema de control ambiental y monitoreo automatizado.*
+* **Enfoque Técnico:** Integración de sensores/actuadores, control de variables ambientales y lógica de automatización en hardware.
+* **Stack:** `C++` `Microcontroladores` `Sistemas Embebidos`
+
+### [Dispensador Automatizado para Mascotas](https://github.com/EzeLRA/Food_dispenser)
+*Dispositivo mecatrónico programable para la dosificación de alimentos.*
+* **Enfoque Técnico:** Control de tiempos, gestión de actuadores mecánicos y diseño de lógica de control.
+* **Stack:** `C++` `Sistemas Embebidos` `Prototipado Electrónico`
+
+### [Juego en ESP8266](https://github.com/EzeLRA/dinosaurGame_ESP8266)
+*Implementación de lógica de juego e interfaz gráfica en microcontrolador Wi-Fi.*
+* **Enfoque Técnico:** Optimización de recursos de memoria y renderizado en pantallas de bajo consumo.
+* **Stack:** `C++` `ESP8266` `Sistemas de Tiempo Real`
+
+---
+
+## 🎓 Proyectos Académicos y Fundamentos de Computación
+
+### Arquitectura de Computadores & Bajo Nivel
+* **[Ensamblador x86 / 8088](https://github.com/EzeLRA/Practica_Ensamblador-ASM88):** Ejercitación en interrupciones, manejo de memoria y manipulación de registros a bajo nivel.
+* **[MIPS64 (WinMips64)](https://github.com/EzeLRA/Practica-WinMips64):** Análisis de pipeline, riesgos de datos/control y optimización de instrucciones RISC.
+
+### Orientación a Objetos y Desarrollo Web
+* **[Pronóstico Deportivo (Java)](https://github.com/EzeLRA/pronostico_Deportivo):** Aplicación de modelado orientado a objetos, procesamiento de datos y pruebas unitarias.
+* **[Desarrollo Web & Frontend](https://github.com/EzeLRA/practica_Frontend):** Implementación de interfaces receptivas utilizando JavaScript, HTML5 y Bootstrap.
+* **[Fundamentos de Programación en Pascal](https://github.com/EzeLRA/Practica-con-Pascal_1):** Colección de prácticas sobre algoritmos, estructuras de datos dinámicas y modularización ([Ver Repositorio General de Pascal](https://github.com/EzeLRA?tab=repositories&q=Pascal)).
+
+---
+
+## 🔗 Contacto & Enlaces
+
+[![Portafolio](https://img.shields.io/badge/Web_Portafolio-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://ezelra.github.io/portafolio_ELRA/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-ramos-8705a7248/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCf1gLwjL6owpPYezmdh1xJw)
