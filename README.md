@@ -49,6 +49,10 @@ Desarrollador con enfoque en el diseño de arquitecturas de software, optimizaci
 
 ## 🎓 Proyectos Académicos y Fundamentos de Computación
 
+### Desarrollo Bot para la plaforma Discord con Rust
+* **[BotDiscord-Truco](https://github.com/EzeLRA/DiscordBot-Truco):** Trabajo Practico Final para desarrollo de un bot arbitro para el juego de cartas "Truco"
+### Desarrollo de plataforma Web3 en Rust
+* **[MercadoLibre-Web3](https://github.com/EzeLRA/TP_Integrador_Rust):** Trabajo Practico Final para el desarrollo de una plataforma Web con Rust y manejo de smartcontracts
 ### Arquitectura de Computadores & Bajo Nivel
 * **[Ensamblador x86 / 8088](https://github.com/EzeLRA/Practica_Ensamblador-ASM88):** Ejercitación en interrupciones, manejo de memoria y manipulación de registros a bajo nivel.
 * **[MIPS64 (WinMips64)](https://github.com/EzeLRA/Practica-WinMips64):** Análisis de pipeline, riesgos de datos/control y optimización de instrucciones RISC.
