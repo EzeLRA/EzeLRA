@@ -1,6 +1,14 @@
 # EzeLRA
- Repositorio personal de todas las actividades y proyectos realizados hasta el momento por parte de practicas universitarias y personales.
+### Sobre mí
 
+Estudiante avanzado de Analista Programador Universitario en la Facultad de Informática de la Universidad Nacional de La Plata (UNLP). Orientado al desarrollo de software de alto rendimiento, optimización algorítmica y diseño de arquitecturas robustas.
+
+### Áreas de Especialización y Competencias
+* **Desarrollo de Software & Arquitectura:** Dominio de lenguajes fuertemente tipados (Rust, Java, C), patrones de diseño, modelado UML y algoritmos avanzados.
+* **Desarrollo Web & Bases de Datos:** Experiencia en desarrollo Full-Stack utilizando frameworks frontend (Bootstrap), tecnologías web y modelado/administración de bases de datos relacionales (MySQL).
+* **Smart Contracts & Web3:** Desarrollo e implementación de lógica de negocio en Solidity y arquitectura de dApps.
+* **Sistemas y Hardware:** Formación como Técnico Electrónico con experiencia en análisis de esquemáticos, diagnóstico a nivel de componente y reparación/reacondicionamiento de equipos electrónicos y software de sistema.
+ 
 #### Programas ejercitaciones con Assembler
 + [8088](https://github.com/EzeLRA/Practica_Ensamblador-ASM88)
 + [WinMips64](https://github.com/EzeLRA/Practica-WinMips64)
