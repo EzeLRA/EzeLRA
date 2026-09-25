@@ -51,7 +51,8 @@ Desarrollador con enfoque en el diseño de arquitecturas de software, optimizaci
 * **[BotDiscord-Truco](https://github.com/EzeLRA/DiscordBot-Truco):** Trabajo Practico Final para desarrollo de un bot arbitro para el juego de cartas "Truco"
 ### Desarrollo de plataforma Web3 en Rust
 * **[MercadoLibre-Web3](https://github.com/EzeLRA/TP_Integrador_Rust):** Trabajo Practico Final para el desarrollo de una plataforma Web con Rust y manejo de smartcontracts
-
+### Concepto sobre desarrollo en Etherum-Solidity
+* **[ProyectoEtherum](https://github.com/EzeLRA/ProyectoEtherum):** Informe sobre el concepto de desarrollo en Etherum-Solidity
 ### Orientación a Objetos y Desarrollo Web
 * **[Pronóstico Deportivo (Java)](https://github.com/EzeLRA/pronostico_Deportivo):** Aplicación de modelado orientado a objetos, procesamiento de datos y pruebas unitarias.
 * **[Desarrollo Web & Frontend](https://github.com/EzeLRA/practica_Frontend):** Implementación de interfaces receptivas utilizando JavaScript, HTML5 y Bootstrap.
