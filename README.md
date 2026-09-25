@@ -55,7 +55,6 @@ Desarrollador con enfoque en el diseño de arquitecturas de software, optimizaci
 ### Orientación a Objetos y Desarrollo Web
 * **[Pronóstico Deportivo (Java)](https://github.com/EzeLRA/pronostico_Deportivo):** Aplicación de modelado orientado a objetos, procesamiento de datos y pruebas unitarias.
 * **[Desarrollo Web & Frontend](https://github.com/EzeLRA/practica_Frontend):** Implementación de interfaces receptivas utilizando JavaScript, HTML5 y Bootstrap.
-* **[Fundamentos de Programación en Pascal](https://github.com/EzeLRA/Practica-con-Pascal_1):** Colección de prácticas sobre algoritmos, estructuras de datos dinámicas y modularización ([Ver Repositorio General de Pascal](https://github.com/EzeLRA?tab=repositories&q=Pascal)).
 
 ---
 
